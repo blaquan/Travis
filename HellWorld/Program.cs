@@ -10,7 +10,7 @@ namespace HellWorld
     {
         static void Main(string[] args)
         {
-            Consle.WriteLine("Hello Quan Kun ! :)");
+            Console.WriteLine("Hello Quan Kun ! :)");
         }
     }
 }
