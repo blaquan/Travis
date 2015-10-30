@@ -4,7 +4,7 @@ solution: HellWorld.sln
 deploy:
       - provider: s3
       - provider: codedeploy
-        access_key_id: AKIAIPRRTFZ7TDRPGX6Q
-        secret_access_key: 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
+        access_key_id: "AKIAIPRRTFZ7TDRPGX6Q"
+        secret_access_key: "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"
         bucket: "quanbui"
         
