@@ -6,3 +6,4 @@ deploy:
   access_key_id: "AKIAIPRRTFZ7TDRPGX6Q"
   secret_access_key: "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"
   bucket: "quanbui"
+  skip_cleanup: true
