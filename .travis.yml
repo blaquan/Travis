@@ -7,4 +7,4 @@ deploy:
   secret_access_key: "ZgyoxTUgDdc20+451D+5M9yGVYasnywUul6niWNA"
   bucket: "quanbui"
   skip_cleanup: true
-  local_dir: QuanBui/Projects
+  local_dir: QuanBui
